@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 //import notes from '../assets/data'
 import ListItem from '../components/ListItem'
 import AddButton from '../components/AddButton'
-
+//
 const NotesListPage = () => {
 
 
