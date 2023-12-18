@@ -1,14 +1,19 @@
 {
   "notes": [
     {
-      "id": 1,
-      "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad\n",
-      "updated": "2023-08-29T20:26:32.598Z"
+      "body": "new note\n\n1\n2\n3",
+      "updated": "2023-12-18T03:23:01.791Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "body": "Gym\n\n- Try a new pr\n",
-      "updated": "2023-09-05T14:08:58.274Z"
+      "body": "asdasd",
+      "updated": "2023-12-18T03:22:05.213Z",
+      "id": 2
+    },
+    {
+      "body": "To-Do\n\nbuy a gift box and gift card for secret santa\n",
+      "updated": "2023-12-18T03:46:07.544Z",
+      "id": 3
     }
   ]
 }
